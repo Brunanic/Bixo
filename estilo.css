@@ -5,7 +5,7 @@
 }
 .linha{
     height:200px;
-    border-bottom:solid 1px;
+    /* border-bottom:solid 1px; */
 }
 
 .casa{
